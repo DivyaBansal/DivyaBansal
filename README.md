@@ -1,8 +1,9 @@
 ### Hi there 👋 Welcome to my profile :smile:
-My name is Divya Bansal. I am a Data Engineering and Analytics Master Graduate from the Technical University of Munich.
+
+My name is Divya Bansal. I am a Data Engineering and Analytics Master's Graduate from the Technical University of Munich.
 I am enthusuiastic about all topics pertaining to data science, data engineering, machine learning and AI. 
 
-An overview of my current skillset:
+✨ An overview of my current skillset:
 ---
 **Techniques**
 1. Data Analysis (EDA, visualization, statistical modelling)
@@ -23,12 +24,12 @@ An overview of my current skillset:
 **Soft**
 1. Sincere and responsible
 2. Solution-oriented mindset
-3. Good communication - positive client interaction in prior work experience (good comprehension of client requirements and delivery of solutions)
-4. Motivated and enjoy learning new tools and technologies - like to follow and learn about the latest technology trends
+3. Good communication: positive client interaction in prior work experience (good comprehension of client requirements and delivery of solutions)
+4. Enjoy learning new tools and technologies: like to follow and learn about the latest technology trends
 5. Committed to improving my German language skills to be able to seamlessly communicate at work in Germany
  
 After delaying it for many years, from now on I pledge to revise and showcase my abilities through this profile and also contribute to some open source projects.  
-I will keep spamming the internet until an employer finds me worthy of an interesting full-time position :stuck_out_tongue_winking_eye:
+> I will keep spamming the internet until an employer finds me worthy of an interesting full-time position
 
 📫 divyabansal266@gmail.com
 
