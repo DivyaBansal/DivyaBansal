@@ -14,7 +14,7 @@ I am enthusiastic about all topics pertaining to data science, data engineering,
 **Toolbox**
 1. Python (Advanced): Used it extensively in professional and university projects. Can confidently develop data engineering/analysis/ML/DL solutions and scripts.
 2. SQL (Advanced): Used it extensively in my previous work experience, also learned query optimization at a university course.
-3. C/C++/Java (Intermediate): Used in many projects for 5+ years but not in the recent years. Used former for advanced parallel programming projects using OpenMP and MPI and latter for Spring/OOP/Android development.
+3. C/C++/Java (Basic): Used in several projects for 5+ years but not in the recent years. Also, used former for advanced parallel programming projects using OpenMP and MPI and latter for Spring/OOP/Android development.
 4. HTML/CSS (Basic): Can develop basic website/email templates and can read and understand code for web scraping 
 5. Linux (Advanced):  Used it extensively in professional and university projects. Used most basic functions, wrote basic bash scripts, set up a virtual cluster of computers(at LRZ), worked with remote machines (ssh, scp, port forwarding) etc.
 6. MongoDB, Microsoft Power BI, PySpark, Hadoop, Ansible (Basic): Fundamental understanding and personal/university project experience 
