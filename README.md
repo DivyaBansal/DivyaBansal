@@ -21,11 +21,6 @@ I am enthusiastic about all topics pertaining to data science, data engineering,
 7. Docker, AWS (S3, EC2, Sagemaker), Airflow, Jenkins (Basic): Fundamental understanding and personal project experience with these tools.
 8. Git, SVN, Autosys/cron, JIRA, Confluence, MS Office (Advanced): Used it extensively in professional and university projects.
 
-**Personal**
-1. Sincere and responsible
-2. Solution-oriented mindset
-3. Good communication: positive client interaction in prior work experience (good comprehension of client requirements and delivery of solutions)
-4. Enjoy learning new tools and technologies: like to follow and learn about the latest technology trends
  
 After delaying it for many years, from now on I pledge to revise and showcase my abilities through this profile and also contribute to some open source projects.  
 > I will keep spamming the internet until an employer finds me worthy of an interesting full-time position
