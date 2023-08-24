@@ -3,6 +3,8 @@
 My name is Divya Bansal. I am a Data Engineering and Analytics Master's Graduate from the Technical University of Munich.
 I am enthusiastic about all topics pertaining to data science, data engineering, machine learning and AI. 
 
+🔭 I am actively looking for a fulltime opportunity in Germany...
+
 ✨ An overview of my current skillset:
 ---
 **Techniques**
