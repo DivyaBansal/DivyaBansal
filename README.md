@@ -7,13 +7,13 @@ I am enthusiastic about all topics pertaining to data science, data engineering,
 
 ✨ An overview of my current skillset:
 ---
-**Techniques**
+**Techniques** 💪🏽
 1. Data Analysis (EDA, visualization, statistical modelling)
-2. Data Engineering (ETL, cloud computing/deployment)
+2. Data Engineering (Data mining, ETL, cloud computing, deployment)
 3. ML/DL algorithms (traditional and modern) (NLP, CV, Tabular, Time-Series) 
 4. Software Engineering/Development
 
-**Toolbox**
+**Toolbox** 🖥️
 1. Python (Advanced): Used it extensively in professional and university projects. Can confidently develop data engineering/analysis/ML/DL solutions and scripts.
 2. SQL (Advanced): Used it extensively in my previous work experience, also learned query optimization at a university course.
 3. C/C++/Java (Basic): Used in several projects but not in the recent years. To highlight, used former for advanced parallel programming using OpenMP and MPI and latter for Spring/OOP/Android development.
