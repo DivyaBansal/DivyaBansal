@@ -3,7 +3,7 @@
 My name is Divya Bansal. I am a Data Engineering and Analytics Master's Graduate from the Technical University of Munich.  
 I am enthusiastic about all topics pertaining to data science, data engineering, machine learning and AI. 
 
-🔭 I am actively looking for a fulltime opportunity in Germany...
+<!--🔭 I am actively looking for a fulltime opportunity in Germany...-->
 
 ✨ An overview of my current skillset:
 ---
@@ -23,9 +23,6 @@ I am enthusiastic about all topics pertaining to data science, data engineering,
 7. Docker, AWS (S3, EC2, Sagemaker), Airflow, Jenkins (Basic): Fundamental understanding and personal project experience with these tools
 8. Git, SVN, Autosys/cron, JIRA, Confluence, MS Office (Advanced): Used them extensively in professional and university projects
 
- 
-After delaying it for many years, from now on I pledge to revise and showcase my abilities through this profile and also contribute to some open source projects.  
-> I will keep spamming the internet until an employer finds me worthy of an interesting full-time position
 
 📫 divyabansal266@gmail.com
 
