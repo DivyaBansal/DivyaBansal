@@ -1,6 +1,6 @@
-### Hi there 👋 Welcome to my profile :smile:
+### Hi there 👋
 
-My name is Divya Bansal. I am a Data Engineering and Analytics Master's Graduate from the Technical University of Munich.  
+I am a Data Engineering and Analytics Master's Graduate from the Technical University of Munich.  
 I am enthusiastic about all topics pertaining to data science, data engineering, machine learning and AI. 
 
 <!--🔭 I am actively looking for a fulltime opportunity in Germany...-->
@@ -25,18 +25,3 @@ I am enthusiastic about all topics pertaining to data science, data engineering,
 
 
 📫 divyabansal266@gmail.com
-
-<!--
-**DivyaBansal/DivyaBansal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
