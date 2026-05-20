@@ -19,7 +19,7 @@ I am enthusiastic about all topics pertaining to data science, data engineering,
 3. C/C++/Java (Basic): Used in several projects but not in the recent years. To highlight, used former for advanced parallel programming using OpenMP and MPI and latter for Spring/OOP/Android development.
 4. HTML/CSS (Basic): Can develop basic website/dashboard/email templates and can read and understand code for web scraping 
 5. Linux (Advanced):  Used it extensively in professional and university projects. Used most common functions, wrote basic bash scripts, set up a virtual cluster of computers(at LRZ), worked with remote machines (ssh, scp, port forwarding) etc.
-6. MongoDB, Microsoft Power BI, PySpark, Hadoop, Ansible (Basic): Fundamental understanding and some project experience 
+6. MongoDB, PySpark, Ansible (Basic): Fundamental understanding and some project experience 
 7. Docker, AWS (S3, EC2, Sagemaker), Airflow (Basic): Fundamental understanding and personal project experience
 8. Git, SVN, Autosys/cron, JIRA, Confluence, MS Office (Advanced): Used them extensively in professional and university projects
 
